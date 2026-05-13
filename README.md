@@ -1,59 +1,67 @@
-````md
+````md id="h3v92p"
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&height=220&text=Joshua%20Bartimeus&fontSize=55&fontAlignY=40&animation=fadeIn&color=0:6C63FF,100:00C2FF" />
+<img src="https://capsule-render.vercel.app/render?type=waving&height=220&text=Joshua%20Bartimeus&fontSize=52&fontAlignY=40&animation=fadeIn&color=0:6C63FF,100:00C2FF" />
 
-# 👋 Hey, I'm Joshua  
-### aka `NerruQuinn`
+# 👋 Hi there, I'm Joshua
 
-```bash
-> booting developer profile...
-> loading creativity...
-> loading unfinished side projects...
-> success ✔
+```txt
+[ AI Researcher ] — [ Solo Fullstack Dev ] — [ MMO Adventurer ]
 ````
 
-<p>
-I build random but useful things with code.<br>
-Usually AI tools, automation systems, weird experiments, and game-related stuff.
-</p>
+*"Building AI tools that actually make life easier — one experiment at a time."*
 
-<img src="https://komarev.com/ghpvc/?username=NerruQuinn&label=Profile+Views&color=blueviolet&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=NerruQuinn&label=Profile+Views&color=6C63FF&style=flat" />
 
 </div>
 
 ---
 
-# 🎮 Character Build
+# 🌟 About Me
 
 ```yaml
-Class: Solo Fullstack Developer
-Subclass: AI Experimenter
-Mana: Coffee
-Weakness: "Starting new projects before finishing old ones"
-Special Skill: Turning chaotic ideas into working prototypes
+name       : Joshua Bartimeus
+alias      : NerruQuinn
+role       : Solo Fullstack Developer
+focus      : AI tools, automation, and creative systems
+codingStyle: "Vibe coding with music at unhealthy hours"
+currentBuff: +10 motivation after solving a bug
+sideQuest  : Grinding MMO games and random side projects
+status     : Building something again...
 ```
 
 ---
 
-# 🧰 Inventory / Tech Stack
+# 🚀 Current Quests
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,lua,cpp,nodejs,arduino,git,vscode" />
-
-</div>
+* 🤖 Building AI agents to simplify real-world tasks
+* 🛠️ Turning random ideas into working apps
+* 🎮 Developing game systems & experimenting with mechanics
+* 📚 Learning new tech every week because one stack is never enough
 
 ---
 
-# 🧪 Current Quests
+# 🧪 Featured Projects
 
-| Quest                                 | Status         |
-| ------------------------------------- | -------------- |
-| Building AI workflow tools            | 🟢 Active      |
-| Experimenting with automation systems | 🟢 Active      |
-| Making random late-night ideas real   | 🟡 In Progress |
-| Organizing files properly             | 🔴 Impossible  |
+| Project                         | Description                                   | Stack             |
+| ------------------------------- | --------------------------------------------- | ----------------- |
+| 🤖 **Office-Agent-AI**          | AI assistant designed for non-technical users | `TypeScript`      |
+| ⚡ **Automation Tools**          | Workflow utilities & experimental AI systems  | `React` `Node.js` |
+| 🎮 **Roblox Adventure Systems** | RPG/adventure mechanics & systems             | `Lua`             |
+| 🧠 **AI Experiments**           | Random research projects that somehow work    | `LLM APIs`        |
+
+> Most projects start with:
+> `"wait... what if I build this?"`
+
+---
+
+# 🛠️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,nodejs,lua,cpp,arduino,git,vscode" />
+
+</div>
 
 ---
 
@@ -75,28 +83,20 @@ Special Skill: Turning chaotic ideas into working prototypes
 
 ---
 
-# 🎵 Current Vibe
-
-```txt
-Coding + Music + "I'll only work for 10 minutes"
-                           ↓
-                     3:17 AM
-```
-
----
-
 # 🎲 Random Events
 
-* ⚡ I enjoy building tools that remove repetitive work.
-* 🎮 Probably testing game mechanics at 2AM.
-* 🤖 AI is more fun when it actually solves real problems.
-* 🛠 Most projects start as “small experiments”.
+* ⚔️ MMO inventory management somehow became a real-life skill
+* 🎧 The right playlist increases coding speed by at least 200%
+* 🛠️ Solo dev life = frontend + backend + debugging + emotional damage
+* 🌙 "I'll sleep after fixing this one bug" is usually a lie
 
 ---
 
 <div align="center">
 
 ### Thanks for visiting 👾
+
+*"May your builds compile and your bugs disappear."*
 
 <img src="https://capsule-render.vercel.app/render?type=waving&height=120&section=footer&color=0:6C63FF,100:00C2FF" />
 
