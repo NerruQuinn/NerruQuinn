@@ -1,9 +1,8 @@
-````md id="o7nzq1"
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&height=240&text=Joshua%20Bartimeus&fontSize=55&fontAlignY=40&animation=fadeIn&color=0:6C63FF,100:00C2FF" />
+<img src="https://capsule-render.vercel.app/render?type=waving&height=250&text=Joshua%20Bartimeus&fontSize=50&fontAlignY=38&animation=fadeIn&color=0:6C63FF,100:00C2FF" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A7CFF&center=true&vCenter=true&random=false&width=700&lines=AI+Researcher+%7C+Solo+Fullstack+Developer;Building+cool+things+with+AI;Vibe+Coding+at+unhealthy+hours;Probably+working+on+another+side+project" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A7CFF&center=true&vCenter=true&random=false&width=700&lines=AI+Researcher+%7C+Solo+Fullstack+Developer;Building+cool+things+with+AI;Creating+automation+tools+and+systems;Probably+working+on+another+side+project;Vibe+coding+at+2AM" />
 
 <br/>
 
@@ -15,49 +14,49 @@
 
 ---
 
-# 👾 player.json
+# `player.json`
 
 ```json
 {
   "name": "Joshua Bartimeus",
   "alias": "NerruQuinn",
   "class": "Solo Fullstack Developer",
-  "speciality": [
+  "focus": [
     "AI Tools",
     "Automation",
     "Creative Systems",
     "Experimental Projects"
   ],
-  "currentStatus": "Building something again...",
-  "weakness": "Starting new side projects at 2AM",
-  "buff": "+25 productivity when music hits"
+  "status": "Building something again...",
+  "special_skill": "Turning random ideas into working systems",
+  "weakness": "Starting new projects before finishing old ones"
 }
-````
+```
 
 ---
 
-# 🚀 Current Quests
+# Current Quests
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI Stuff
+### AI & Automation
 
 * AI agents
-* Automation tools
-* Workflow systems
-* LLM experiments
+* Productivity systems
+* Workflow automation
+* Experimental tools
 
 </td>
 <td width="50%">
 
-### 🎮 Game Stuff
+### Game & Creative Tech
 
 * Roblox systems
 * RPG mechanics
-* Adventure systems
-* Random prototypes
+* Adventure prototypes
+* UI experiments
 
 </td>
 </tr>
@@ -65,22 +64,22 @@
 
 ---
 
-# 🧪 Featured Experiments
+# Featured Projects
 
 <div align="center">
 
-| Project                         | Description                            |
-| ------------------------------- | -------------------------------------- |
-| 🤖 **Office-Agent-AI**          | AI assistant for simplifying workflows |
-| ⚡ **Automation Systems**        | Tools that remove repetitive tasks     |
-| 🎮 **Roblox Adventure Systems** | RPG mechanics & game systems           |
-| 🧠 **AI Experiments**           | Random ideas that somehow work         |
+| Project                     | Description                                     |
+| --------------------------- | ----------------------------------------------- |
+| 🤖 Office-Agent-AI          | AI assistant designed for simplifying workflows |
+| ⚡ Automation Systems        | Tools that reduce repetitive tasks              |
+| 🎮 Roblox Adventure Systems | RPG mechanics & custom game systems             |
+| 🧠 AI Experiments           | Random ideas turned into working prototypes     |
 
 </div>
 
 ---
 
-# ⚔️ Tech Arsenal
+# Tech Stack
 
 <div align="center">
 
@@ -90,13 +89,23 @@
 
 ---
 
-# 📊 GitHub Analytics
+# Activity Graph
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NerruQuinn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NerruQuinn&theme=tokyo-night&hide_border=true&area=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerruQuinn&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NerruQuinn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerruQuinn&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -108,42 +117,43 @@
 
 ---
 
-# 🎵 Current Vibe
+# Current Vibe
 
 <div align="center">
 
 ```bash
-> initializing coding session...
+> booting developer mode...
 
-[██████████░░░░░░░░] 56%
+[████████████░░░░░░] 64%
 
-🎧 Music detected
-☕ Coffee level stable
-🛠️ Productivity increasing
-🐛 New bug discovered
-💀 Emotional damage taken
+🎧 music synced
+☕ caffeine detected
+🛠 productivity boosted
+🐛 bug discovered
+💀 emotional damage taken
 ```
 
 </div>
 
 ---
 
-# 🎲 Random Events
+# Random Events
 
-* ⚔️ MMO inventory management became a real-life skill
-* 🌙 "One last fix before sleep" never means one
-* 🎧 Good music increases coding speed dramatically
-* 🛠️ Solo dev life = frontend + backend + debugging + suffering
+* Most projects begin with “what if I build this?”
+* MMO inventory management somehow became a real-life skill
+* Good music increases coding speed dramatically
+* “One last fix before sleep” is usually a lie
 
 ---
 
 <div align="center">
 
-## 👾 Thanks for visiting
+## Thanks for visiting
 
-*"May your builds compile and your bugs disappear."*
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/render?type=waving&height=120&section=footer&color=0:6C63FF,100:00C2FF" />
 
 </div>
-```
