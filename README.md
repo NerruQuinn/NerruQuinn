@@ -1,78 +1,104 @@
 ````md
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=180&section=header&text=Joshua%20Bartimeus&fontSize=60&animation=fadeIn" />
 
-  <h3>Fullstack Developer • AI Builder • Creative Technologist</h3>
+<img src="https://capsule-render.vercel.app/render?type=waving&height=220&text=Joshua%20Bartimeus&fontSize=55&fontAlignY=40&animation=fadeIn&color=0:6C63FF,100:00C2FF" />
 
-  <p>
-    Building tools, experiments, and weird ideas with code.
-  </p>
-</div>
+# 👋 Hey, I'm Joshua  
+### aka `NerruQuinn`
 
----
-
-## About Me
-
-```ts
-const joshua = {
-  alias: "NerruQuinn",
-  role: "Solo Developer",
-  focus: [
-    "AI Tools",
-    "Automation",
-    "Frontend Engineering",
-    "Creative Systems"
-  ],
-  currentlyBuilding: [
-    "AI-powered utilities",
-    "Workflow automation",
-    "Experimental game systems"
-  ],
-  vibe: "Late night coding with music on"
-}
+```bash
+> booting developer profile...
+> loading creativity...
+> loading unfinished side projects...
+> success ✔
 ````
 
----
+<p>
+I build random but useful things with code.<br>
+Usually AI tools, automation systems, weird experiments, and game-related stuff.
+</p>
 
-## Tech Stack
+<img src="https://komarev.com/ghpvc/?username=NerruQuinn&label=Profile+Views&color=blueviolet&style=flat" />
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,lua,cpp,arduino,git,vscode" />
 </div>
 
 ---
 
-## Projects
+# 🎮 Character Build
 
-| Project              | Description                              |
-| :------------------- | :--------------------------------------- |
-| **TeacherCrack**     | Bulk admin & productivity tools          |
-| **Office-Agent-AI**  | AI assistant for simplifying workflows   |
-| **Asisten-Guru**     | Automation platform for repetitive tasks |
-| **Vibration System** | Arduino-based motion detection project   |
+```yaml
+Class: Solo Fullstack Developer
+Subclass: AI Experimenter
+Mana: Coffee
+Weakness: "Starting new projects before finishing old ones"
+Special Skill: Turning chaotic ideas into working prototypes
+```
 
 ---
 
-## GitHub Stats
+# 🧰 Inventory / Tech Stack
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NerruQuinn&show_icons=true&theme=radical&hide_border=true" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerruQuinn&layout=compact&theme=radical&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,lua,cpp,nodejs,arduino,git,vscode" />
+
 </div>
 
 ---
 
-## Random Stuff
+# 🧪 Current Quests
 
-* I like building things that save people time.
-* Probably managing too many projects at once.
-* Most coding sessions start with “just fixing one thing”.
-* MMO inventory management somehow became a real-life skill.
+| Quest                                 | Status         |
+| ------------------------------------- | -------------- |
+| Building AI workflow tools            | 🟢 Active      |
+| Experimenting with automation systems | 🟢 Active      |
+| Making random late-night ideas real   | 🟡 In Progress |
+| Organizing files properly             | 🔴 Impossible  |
+
+---
+
+# 📊 Player Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NerruQuinn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerruQuinn&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NerruQuinn&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🎵 Current Vibe
+
+```txt
+Coding + Music + "I'll only work for 10 minutes"
+                           ↓
+                     3:17 AM
+```
+
+---
+
+# 🎲 Random Events
+
+* ⚡ I enjoy building tools that remove repetitive work.
+* 🎮 Probably testing game mechanics at 2AM.
+* 🤖 AI is more fun when it actually solves real problems.
+* 🛠 Most projects start as “small experiments”.
 
 ---
 
 <div align="center">
-  <sub>Thanks for stopping by.</sub>
+
+### Thanks for visiting 👾
+
+<img src="https://capsule-render.vercel.app/render?type=waving&height=120&section=footer&color=0:6C63FF,100:00C2FF" />
+
 </div>
 ```
